@@ -128,4 +128,4 @@ To build a scalable and robust backend, here are some technology options:
 
 ---
 
-By building out the backend and exposing these APIs, you can create a flexible, scalable system that can later be integrated with a front-end interface for easy strategy building and execution. This API-driven approach ensures you can develop in stages, focusing on core functionality first. Let me know if you need further details or clarifications!
+By building out the backend and exposing these APIs, you can create a flexible, scalable system that can later be integrated with a front-end interface for easy strategy building and execution. This API-driven approach ensures you can develop in stages, focusing on core functionality first.
